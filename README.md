@@ -12,7 +12,11 @@ Far Away is a travel list website that allows you to create and manage your pack
 - **Sort List:** Sort your packing list based on description or packed status.
 
 ## Screenshot
+**Landing Page:**
+
 ![landing page](https://github.com/anshumansinha18/Far-Away-Travel-List_React-App/assets/39727166/6f9ac007-adeb-4cb6-b893-eb1c5a28e9cf)
+**Landing Page with list and sorting options:**
+
 ![page](https://github.com/anshumansinha18/Far-Away-Travel-List_React-App/assets/39727166/68b8a0e5-ddc5-48eb-a8d2-5651f31c3675)
 
 
